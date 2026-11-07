@@ -1,0 +1,16 @@
+Check,Result
+Total Records,10194
+Total Columns,20
+Missing Values,0
+Exact Duplicate Rows,0
+Duplicate Row IDs,0
+Unique Order IDs,8549
+Invalid Order Dates,0
+Invalid Ship Dates,0
+Ship Before Order,0
+Financial Mismatches,0
+Negative Sales,0
+Negative Cost,0
+Negative Gross Profit,0
+Negative Units,0
+Zero Units,0

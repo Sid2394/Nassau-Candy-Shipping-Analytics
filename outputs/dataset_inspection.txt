@@ -1,0 +1,73 @@
+NASSAU CANDY DATASET INSPECTION REPORT
+==================================================
+
+Rows: 10194
+Columns: 18
+
+COLUMN NAMES:
+['Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'Customer ID', 'Country/Region', 'City', 'State/Province', 'Postal Code', 'Division', 'Region', 'Product ID', 'Product Name', 'Sales', 'Units', 'Gross Profit', 'Cost']
+
+MISSING VALUES:
+Row ID            0
+Order ID          0
+Order Date        0
+Ship Date         0
+Ship Mode         0
+Customer ID       0
+Country/Region    0
+City              0
+State/Province    0
+Postal Code       0
+Division          0
+Region            0
+Product ID        0
+Product Name      0
+Sales             0
+Units             0
+Gross Profit      0
+Cost              0
+dtype: int64
+
+Duplicate Rows: 0
+
+DATA TYPES:
+Row ID              int64
+Order ID              str
+Order Date            str
+Ship Date             str
+Ship Mode             str
+Customer ID         int64
+Country/Region        str
+City                  str
+State/Province        str
+Postal Code           str
+Division              str
+Region                str
+Product ID            str
+Product Name          str
+Sales             float64
+Units               int64
+Gross Profit      float64
+Cost              float64
+dtype: object
+
+STATISTICAL SUMMARY:
+                  count unique                           top  freq           mean           std       min       25%       50%       75%       max
+Row ID          10194.0    NaN                           NaN   NaN         5097.5   2942.898656       1.0   2549.25    5097.5   7645.75   10194.0
+Order ID          10194   8549  US-2021-155502-CHO-MIL-31000     5            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Order Date        10194    717                    02-09-2025    62            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Ship Date         10194   1338                    07-06-2028    38            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Ship Mode         10194      4                Standard Class  6120            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Customer ID     10194.0    NaN                           NaN   NaN  134468.961154  20231.483007  100006.0  117212.0  133550.0  152051.0  192314.0
+Country/Region    10194      2                 United States  9994            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+City              10194    542                 New York City   915            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+State/Province    10194     59                    California  2001            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Postal Code       10194    654                         10035   263            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Division          10194      3                     Chocolate  9844            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Region            10194      4                       Pacific  3253            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Product ID        10194     15                 CHO-MIL-31000  2137            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Product Name      10194     15    Wonka Bar - Milk Chocolate  2137            NaN           NaN       NaN       NaN       NaN       NaN       NaN
+Sales           10194.0    NaN                           NaN   NaN      13.908537      11.34102      1.25       7.2      10.8      18.0     260.0
+Units           10194.0    NaN                           NaN   NaN       3.791838      2.228317       1.0       2.0       3.0       5.0      14.0
+Gross Profit    10194.0    NaN                           NaN   NaN       9.166451       6.64374      0.25       4.9      7.47     12.25     130.0
+Cost            10194.0    NaN                           NaN   NaN       4.742087      5.061647       0.6       2.4       3.6       5.7     130.0

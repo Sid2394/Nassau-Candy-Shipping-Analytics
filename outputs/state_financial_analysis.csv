@@ -1,0 +1,60 @@
+Country/Region,State/Province,Records,Unique_Orders,Total_Sales,Total_Profit,Total_Cost,Total_Units
+United States,California,2001,1686,27917.4,18479.42,9437.98,7667
+United States,New York,1128,942,15541.03,10222.44,5318.59,4224
+United States,Texas,985,833,13416.09,8909.53,4506.56,3724
+United States,Pennsylvania,587,487,8027.03,5225.47,2801.56,2153
+United States,Washington,506,432,6921.15,4566.64,2354.51,1883
+United States,Illinois,492,433,6898.96,4557.68,2341.28,1845
+United States,Ohio,469,392,6768.95,4413.03,2355.92,1759
+United States,Florida,383,319,4804.02,3207.11,1596.91,1379
+United States,Arizona,224,190,3587.55,2290.11,1297.44,862
+United States,North Carolina,249,216,3450.86,2331.16,1119.7,983
+United States,Michigan,255,209,3331.0,2236.21,1094.79,946
+United States,Virginia,224,185,3177.84,2080.84,1097.0,893
+United States,Georgia,184,151,2692.84,1751.32,941.52,705
+United States,Colorado,182,140,2544.91,1694.63,850.28,693
+United States,Tennessee,183,151,2383.56,1573.52,810.04,681
+United States,Indiana,149,123,2002.78,1343.44,659.34,578
+United States,Wisconsin,110,91,1920.5,1219.58,700.92,463
+United States,Oregon,124,105,1920.15,1253.11,667.04,499
+United States,Kentucky,139,112,1880.63,1242.37,638.26,523
+United States,Massachusetts,135,106,1806.99,1179.99,627.0,491
+United States,New Jersey,130,108,1578.35,1017.76,560.59,454
+United States,Maryland,105,80,1476.99,997.57,479.42,420
+United States,Delaware,96,80,1323.59,861.71,461.88,367
+United States,Minnesota,89,75,1161.46,779.28,382.18,331
+United States,Alabama,61,53,995.11,622.11,373.0,256
+United States,Connecticut,82,74,980.57,653.83,326.74,281
+United States,Arkansas,60,48,891.94,588.02,303.92,240
+United States,Missouri,66,56,882.83,595.41,287.42,252
+United States,Oklahoma,66,56,877.65,595.91,281.74,247
+United States,Utah,53,44,856.41,556.21,300.2,219
+United States,Mississippi,53,43,844.18,557.94,286.24,221
+Canada,Ontario,58,41,814.57,542.57,272.0,234
+United States,Rhode Island,56,46,805.76,501.84,303.92,199
+United States,Nevada,39,36,759.46,469.48,289.98,168
+United States,South Carolina,42,34,601.07,398.83,202.24,172
+Canada,Quebec,50,38,597.68,381.36,216.32,150
+Canada,Alberta,26,22,530.32,326.3,204.02,110
+United States,Louisiana,42,38,525.21,347.45,177.76,156
+United States,New Mexico,37,34,502.71,335.17,167.54,151
+United States,Nebraska,38,33,483.53,327.89,155.64,136
+United States,New Hampshire,27,26,428.27,264.53,163.74,127
+United States,Iowa,30,26,400.37,269.97,130.4,112
+Canada,British Columbia,22,22,290.9,198.3,92.6,81
+United States,Kansas,24,23,263.18,179.22,83.96,74
+United States,Idaho,21,18,225.25,152.15,73.1,64
+United States,Montana,15,12,202.11,135.47,66.64,56
+Canada,New Brunswick,8,8,172.72,118.72,54.0,48
+United States,Vermont,11,10,162.44,109.98,52.46,50
+Canada,Newfoundland and Labrador,6,5,162.0,112.5,49.5,45
+United States,South Dakota,12,8,151.34,104.14,47.2,42
+United States,District of Columbia,10,8,142.25,95.85,46.4,40
+Canada,Manitoba,12,8,138.25,90.27,47.98,40
+Canada,Prince Edward Island,10,8,130.1,88.66,41.44,38
+United States,Maine,8,7,126.48,85.1,41.38,35
+United States,North Dakota,7,5,109.66,73.96,35.7,30
+Canada,Nova Scotia,6,6,87.5,56.9,30.6,26
+United States,West Virginia,4,4,63.97,43.89,20.08,18
+Canada,Saskatchewan,2,2,29.25,18.99,10.26,9
+United States,Wyoming,1,1,13.96,9.96,4.0,4

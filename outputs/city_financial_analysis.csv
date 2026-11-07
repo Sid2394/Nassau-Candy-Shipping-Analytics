@@ -1,0 +1,617 @@
+Country/Region,State/Province,City,Records,Unique_Orders,Total_Sales,Total_Profit,Total_Cost,Total_Units
+United States,New York,New York City,915,761,12514.9,8240.51,4274.39,3417
+United States,California,Los Angeles,747,629,10408.75,6898.61,3510.14,2879
+United States,Pennsylvania,Philadelphia,537,450,7415.52,4813.82,2601.7,1981
+United States,California,San Francisco,510,430,7018.61,4650.77,2367.84,1935
+United States,Washington,Seattle,428,362,5893.39,3880.68,2012.71,1590
+United States,Texas,Houston,377,323,5429.41,3547.43,1881.98,1466
+United States,Illinois,Chicago,314,276,4263.92,2800.58,1463.34,1132
+United States,California,San Diego,170,149,2348.88,1567.52,781.36,670
+United States,Texas,Dallas,157,129,1947.51,1299.77,647.74,555
+United States,Ohio,Columbus,120,98,1845.3,1203.86,641.44,464
+United States,Michigan,Detroit,115,90,1532.97,1034.17,498.8,441
+United States,Georgia,Columbus,68,60,1120.55,688.37,432.18,258
+United States,Texas,San Antonio,59,46,873.11,588.85,284.26,247
+United States,North Carolina,Charlotte,52,42,870.38,582.6,287.78,243
+United States,Florida,Jacksonville,75,63,856.29,572.27,284.02,248
+United States,Wisconsin,Milwaukee,45,37,825.57,521.23,304.34,201
+United States,Delaware,Newark,60,50,821.95,525.61,296.34,225
+Canada,Ontario,Toronto,58,41,814.57,542.57,272.0,234
+United States,Arizona,Phoenix,63,56,785.31,513.43,271.88,224
+United States,Florida,Miami,57,47,757.98,512.26,245.72,215
+United States,Kentucky,Henderson,48,38,683.56,442.72,240.84,185
+United States,Virginia,Springfield,50,42,670.51,424.57,245.94,198
+United States,Maryland,Baltimore,43,30,656.36,446.76,209.6,184
+United States,Arizona,Tucson,32,26,647.4,409.1,238.3,145
+United States,Colorado,Denver,44,34,645.87,406.67,239.2,164
+United States,North Carolina,Jacksonville,50,43,641.28,431.5,209.78,181
+United States,Ohio,Springfield,36,30,599.13,375.01,224.12,137
+United States,Oregon,Springfield,38,29,578.18,385.18,193.0,163
+United States,California,San Jose,42,37,555.89,372.29,183.6,159
+United States,Georgia,Atlanta,39,30,554.73,377.71,177.02,156
+United States,Mississippi,Jackson,34,28,552.37,361.69,190.68,138
+United States,Ohio,Toledo,32,27,533.02,326.64,206.38,122
+United States,Missouri,Springfield,39,32,527.18,355.36,171.82,151
+United States,New York,Long Beach,34,31,493.34,332.68,160.66,142
+United States,Rhode Island,Providence,31,26,490.46,296.06,194.4,118
+United States,Ohio,Newark,35,26,486.78,332.4,154.38,137
+United States,California,Anaheim,27,19,482.6,311.82,170.78,112
+United States,Kentucky,Louisville,33,26,470.59,310.17,160.42,131
+United States,Ohio,Cleveland,42,38,468.69,307.75,160.94,138
+United States,Colorado,Aurora,34,27,466.64,314.86,151.78,130
+United States,Massachusetts,Lawrence,33,24,463.85,296.63,167.22,114
+United States,Virginia,Richmond,27,21,460.98,296.58,164.4,113
+United States,Texas,Austin,39,35,460.16,307.08,153.08,131
+United States,Texas,Arlington,28,22,459.68,308.88,150.8,131
+United States,Arizona,Mesa,28,22,458.07,308.51,149.56,128
+United States,New York,Rochester,36,33,455.49,300.97,154.52,120
+United States,Illinois,Aurora,34,28,450.11,304.25,145.86,128
+United States,Virginia,Arlington,32,29,448.79,301.01,147.78,128
+Canada,Quebec,Montreal,34,29,437.03,276.41,160.62,101
+Canada,Alberta,Calgary,18,16,435.82,262.6,173.22,84
+United States,Michigan,Jackson,38,33,430.82,284.94,145.88,132
+United States,Texas,Huntsville,26,20,425.99,288.49,137.5,121
+United States,Delaware,Wilmington,27,21,424.84,285.16,139.68,120
+United States,Ohio,Lancaster,31,26,421.47,282.59,138.88,121
+United States,Maryland,Clinton,29,22,419.76,279.88,139.88,119
+United States,Ohio,Lakewood,17,17,419.61,250.91,168.7,76
+United States,Arizona,Gilbert,15,12,418.58,236.04,182.54,58
+United States,South Carolina,Columbia,30,22,413.94,272.24,141.7,119
+United States,Kentucky,Richmond,34,27,405.78,274.14,131.64,116
+United States,Tennessee,Memphis,30,21,401.86,256.24,145.62,116
+United States,North Carolina,Fayetteville,27,21,399.56,270.36,129.2,117
+United States,California,Long Beach,27,21,396.74,268.38,128.36,114
+United States,Tennessee,Nashville,29,24,395.61,260.77,134.84,114
+United States,Colorado,Colorado Springs,25,18,392.15,264.97,127.18,110
+United States,Indiana,Columbus,34,30,391.54,266.8,124.74,114
+United States,Oregon,Salem,27,21,391.15,247.27,143.88,101
+United States,Oklahoma,Tulsa,26,21,382.07,259.43,122.64,107
+United States,California,Oakland,26,21,381.26,259.12,122.14,107
+United States,Florida,Tampa,36,27,376.39,253.11,123.28,105
+United States,Indiana,Richmond,29,21,370.43,238.19,132.24,107
+United States,California,Fresno,26,21,365.92,247.72,118.2,106
+United States,Texas,Fort Worth,27,24,361.83,244.27,117.56,102
+United States,Nebraska,Omaha,28,23,347.49,235.37,112.12,98
+United States,California,Pasadena,25,21,340.33,228.67,111.66,97
+United States,Florida,Tallahassee,17,15,338.37,234.57,103.8,89
+United States,Indiana,Indianapolis,23,20,333.42,226.3,107.12,95
+United States,Oregon,Portland,24,24,329.99,222.55,107.44,92
+United States,Arizona,Tempe,13,10,326.75,182.35,144.4,41
+United States,New Jersey,Lakewood,24,21,325.97,192.97,133.0,93
+United States,Arkansas,Little Rock,24,16,310.93,207.13,103.8,90
+United States,Colorado,Louisville,24,19,310.43,208.65,101.78,90
+United States,Maryland,Columbia,23,19,309.15,208.53,100.62,90
+United States,Massachusetts,Everett,21,15,296.62,201.26,95.36,83
+United States,New York,Oceanside,22,16,294.03,197.47,96.56,82
+United States,Virginia,Alexandria,16,10,293.52,195.16,98.36,84
+United States,Illinois,Rockford,11,10,291.43,182.35,109.08,64
+Canada,British Columbia,Vancouver,22,22,290.9,198.3,92.6,81
+United States,Tennessee,Knoxville,24,20,290.11,196.61,93.5,81
+United States,Minnesota,Lakeville,15,13,288.45,190.89,97.56,84
+United States,Minnesota,Minneapolis,23,18,283.1,190.9,92.2,80
+United States,Alabama,Montgomery,10,9,281.07,164.79,116.28,48
+United States,Oklahoma,Oklahoma City,23,18,278.0,190.36,87.64,78
+United States,New York,Auburn,17,11,276.89,176.57,100.32,63
+United States,Connecticut,Fairfield,19,19,275.49,183.31,92.18,80
+United States,Ohio,Fairfield,17,17,273.41,183.77,89.64,75
+United States,North Carolina,Raleigh,22,18,273.22,189.32,83.9,77
+United States,Illinois,Decatur,22,20,273.12,184.22,88.9,77
+United States,New York,Yonkers,15,12,269.11,167.39,101.72,57
+United States,Ohio,Akron,21,16,265.8,173.2,92.6,65
+United States,Florida,Hialeah,18,17,264.35,176.3,88.05,76
+United States,Florida,Lakeland,22,13,263.66,172.52,91.14,74
+United States,Wisconsin,La Crosse,5,5,257.1,134.28,122.82,22
+United States,Virginia,Chesapeake,18,15,253.07,169.87,83.2,72
+United States,Texas,Pasadena,17,15,247.79,163.67,84.12,59
+United States,Michigan,Trenton,13,11,239.37,151.83,87.54,54
+United States,Arizona,Glendale,23,21,237.43,161.59,75.84,67
+United States,California,Brentwood,16,12,233.12,156.04,77.08,66
+United States,California,Chico,11,9,232.76,139.58,93.18,43
+United States,Nevada,Sparks,3,3,232.4,122.5,109.9,19
+United States,Florida,Fort Lauderdale,15,15,232.11,157.95,74.16,65
+United States,Arkansas,Fayetteville,14,12,231.05,145.51,85.54,51
+United States,Tennessee,Columbia,18,15,226.68,154.48,72.2,69
+United States,New York,Hempstead,11,10,226.51,140.57,85.94,51
+United States,Georgia,Roswell,18,15,226.47,155.85,70.62,64
+United States,Massachusetts,Franklin,17,14,223.66,140.54,83.12,60
+United States,Texas,El Paso,19,17,222.94,145.38,77.56,65
+United States,California,Redlands,16,10,220.3,146.32,73.98,61
+United States,Virginia,Virginia Beach,16,16,218.32,146.04,72.28,62
+United States,Utah,Provo,10,7,218.2,129.48,88.72,38
+United States,Nevada,Las Vegas,13,13,216.12,146.8,69.32,61
+United States,Georgia,Smyrna,17,11,211.88,133.84,78.04,60
+United States,New Jersey,Paterson,20,16,210.9,139.64,71.26,62
+United States,California,Danville,6,6,208.95,113.53,95.42,31
+United States,Massachusetts,Lowell,16,13,207.28,130.98,76.3,60
+United States,New Hampshire,Concord,15,14,206.84,123.46,83.38,64
+United States,Arizona,Scottsdale,12,10,206.2,139.36,66.84,55
+United States,Arizona,Peoria,16,12,204.48,135.58,68.9,57
+United States,Nevada,North Las Vegas,16,14,203.64,137.68,65.96,58
+United States,Louisiana,Lafayette,19,18,202.57,137.67,64.9,61
+United States,New Mexico,Albuquerque,14,12,201.39,132.01,69.38,65
+United States,California,Roseville,14,10,198.77,133.29,65.48,55
+United States,Oregon,Eugene,6,5,197.61,109.01,88.6,23
+United States,New York,Troy,15,12,197.29,118.81,78.48,57
+United States,Ohio,Troy,14,13,195.55,132.77,62.78,55
+United States,California,Santa Ana,14,13,192.78,129.78,63.0,55
+United States,California,Inglewood,16,13,189.61,129.25,60.36,53
+United States,Pennsylvania,Chester,16,11,189.52,129.7,59.82,55
+United States,New Hampshire,Dover,10,10,186.83,118.23,68.6,53
+United States,Alabama,Decatur,13,11,186.73,126.51,60.22,52
+United States,Texas,Mcallen,19,14,185.53,125.07,60.46,54
+United States,Rhode Island,Cranston,16,11,185.37,125.19,60.18,52
+United States,Arkansas,Jonesboro,11,9,184.98,122.98,62.0,53
+United States,Colorado,Pueblo,8,8,184.96,133.28,51.68,42
+United States,California,Thousand Oaks,5,5,184.65,100.45,84.2,20
+United States,Ohio,Dublin,13,9,182.69,124.75,57.94,51
+United States,Ohio,Cincinnati,17,14,181.28,119.54,61.74,58
+United States,Texas,Carrollton,15,12,180.04,122.72,57.32,50
+United States,California,Westminster,17,10,177.39,120.71,56.68,50
+United States,Minnesota,Rochester,17,14,175.94,116.96,58.98,50
+United States,Virginia,Salem,13,9,173.05,115.21,57.84,49
+United States,Indiana,Lawrence,11,11,172.74,115.58,57.16,52
+United States,Louisiana,Monroe,12,10,172.74,115.12,57.62,51
+Canada,New Brunswick,Moncton,8,8,172.72,118.72,54.0,48
+United States,Wisconsin,Franklin,9,7,170.5,113.2,57.3,48
+United States,New Jersey,Plainfield,13,10,169.17,99.23,69.94,49
+United States,Virginia,Hampton,11,8,168.05,111.07,56.98,48
+United States,Florida,Pembroke Pines,14,8,167.23,112.07,55.16,47
+United States,California,Bakersfield,16,12,166.76,112.44,54.32,47
+United States,Colorado,Thornton,10,6,165.64,109.6,56.04,47
+United States,Alabama,Mobile,11,10,165.59,109.59,56.0,52
+United States,Florida,Saint Petersburg,14,11,165.44,108.06,57.38,53
+United States,North Carolina,Greensboro,13,12,165.17,110.33,54.84,50
+United States,Georgia,Sandy Springs,14,10,164.99,114.01,50.98,47
+United States,New York,Buffalo,10,9,163.5,110.64,52.86,46
+United States,Vermont,Burlington,11,10,162.44,109.98,52.46,50
+United States,Michigan,Westland,13,9,162.02,108.14,53.88,46
+United States,California,Sunnyvale,6,5,162.0,82.28,79.72,23
+Canada,Newfoundland and Labrador,St. John's,6,5,162.0,112.5,49.5,45
+United States,Texas,Plano,15,13,161.47,106.79,54.68,48
+Canada,Quebec,Quebec City,16,9,160.65,104.95,55.7,49
+United States,Texas,Grand Prairie,13,10,157.4,105.7,51.7,45
+United States,Florida,Plantation,11,8,156.52,104.56,51.96,45
+United States,Indiana,Lafayette,12,10,155.63,105.65,49.98,43
+United States,Massachusetts,Quincy,11,8,155.21,105.93,49.28,44
+United States,Iowa,Des Moines,12,10,154.9,103.8,51.1,43
+United States,Illinois,Skokie,11,9,154.24,104.36,49.88,44
+United States,North Carolina,Concord,8,7,153.4,103.04,50.36,44
+United States,Utah,Salt Lake City,8,6,152.97,101.25,51.72,42
+United States,North Carolina,Burlington,11,10,152.93,101.61,51.32,46
+United States,Tennessee,Johnson City,12,9,150.74,101.28,49.46,43
+United States,Oregon,Redmond,8,7,150.35,103.91,46.44,42
+United States,California,Moreno Valley,10,10,149.43,99.93,49.5,42
+United States,Virginia,Newport News,12,9,148.43,91.77,56.66,43
+United States,Connecticut,Manchester,11,8,146.89,99.57,47.32,42
+United States,Tennessee,Jackson,10,9,144.84,96.4,48.44,48
+United States,Illinois,Quincy,9,8,144.56,97.98,46.58,40
+United States,Washington,Edmonds,14,10,143.02,95.1,47.92,42
+United States,District of Columbia,Washington,10,8,142.25,95.85,46.4,40
+United States,California,Costa Mesa,11,10,141.01,96.57,44.44,42
+United States,Ohio,Parma,10,7,140.91,95.27,45.64,40
+United States,California,Salinas,8,7,140.36,96.66,43.7,39
+United States,California,Riverside,14,13,139.68,93.46,46.22,40
+United States,Florida,Hollywood,11,11,139.62,83.86,55.76,44
+United States,Alabama,Huntsville,10,9,138.94,71.32,67.62,40
+United States,Florida,Orlando,11,9,138.63,94.21,44.42,39
+Canada,Manitoba,Winnipeg,12,8,138.25,90.27,47.98,40
+United States,Tennessee,Murfreesboro,11,8,137.19,85.99,51.2,30
+United States,Michigan,Midland,12,11,135.73,92.12,43.61,39
+United States,Missouri,Columbia,10,7,135.64,90.86,44.78,38
+United States,Mississippi,Hattiesburg,9,6,135.23,89.35,45.88,38
+United States,Wisconsin,Madison,10,8,133.72,91.72,42.0,37
+United States,Texas,Laredo,13,9,133.67,90.29,43.38,37
+United States,Tennessee,Chattanooga,10,9,133.42,90.54,42.88,38
+United States,Kentucky,Florence,10,8,132.22,90.16,42.06,38
+United States,North Carolina,Wilmington,9,9,132.15,88.17,43.98,37
+United States,Ohio,Medina,9,7,131.23,87.21,44.02,38
+United States,Wisconsin,Superior,9,5,131.18,88.26,42.92,37
+United States,Washington,Spokane,7,7,130.9,87.36,43.54,36
+Canada,Prince Edward Island,Charlottetown,10,8,130.1,88.66,41.44,38
+United States,Wisconsin,Kenosha,9,6,127.95,85.95,42.0,37
+United States,California,Sacramento,13,11,127.81,86.33,41.48,36
+United States,Kentucky,Georgetown,8,7,126.9,83.76,43.14,35
+United States,Ohio,Lorain,9,8,126.78,84.12,42.66,35
+United States,Ohio,Marion,14,12,126.14,82.06,44.08,41
+United States,California,Lakewood,8,8,125.94,85.54,40.4,35
+United States,Pennsylvania,Lancaster,10,8,125.57,85.67,39.9,35
+United States,South Dakota,Sioux Falls,9,6,125.54,86.84,38.7,35
+United States,New York,Watertown,10,10,124.7,84.56,40.14,35
+United States,California,San Bernardino,9,7,121.35,80.85,40.5,33
+United States,New Mexico,Carlsbad,11,10,120.74,80.4,40.34,35
+United States,California,Stockton,6,6,119.81,80.21,39.6,34
+United States,California,Redondo Beach,8,6,119.61,80.43,39.18,35
+United States,Nebraska,Fremont,8,8,118.79,81.29,37.5,33
+United States,Florida,Miramar,8,6,118.0,77.14,40.86,41
+United States,California,Pomona,7,6,117.35,78.07,39.28,34
+United States,Texas,Corpus Christi,8,8,117.08,78.8,38.28,33
+United States,Indiana,La Porte,8,6,117.03,79.23,37.8,33
+United States,New York,Mount Vernon,8,7,116.5,77.98,38.52,33
+United States,Illinois,Naperville,8,8,115.55,79.07,36.48,33
+United States,Virginia,Waynesboro,10,9,115.09,76.25,38.84,32
+United States,North Carolina,Durham,9,9,114.96,78.2,36.76,33
+United States,Connecticut,Meriden,11,10,114.3,73.14,41.16,32
+United States,Virginia,Suffolk,10,9,113.98,75.76,38.22,32
+United States,Texas,Amarillo,10,8,113.97,76.13,37.84,32
+United States,Connecticut,Waterbury,11,10,113.64,78.46,35.18,33
+United States,Georgia,Marietta,7,6,113.46,75.96,37.5,33
+United States,New York,Utica,8,6,112.8,76.94,35.86,33
+United States,Utah,Orem,9,8,112.72,75.62,37.1,32
+United States,Michigan,Grand Rapids,7,7,112.1,75.7,36.4,31
+United States,New Jersey,Morristown,7,6,111.92,76.12,35.8,31
+United States,New Jersey,Belleville,10,8,111.82,74.32,37.5,32
+United States,Tennessee,Franklin,11,8,111.66,76.26,35.4,31
+United States,Indiana,Bloomington,7,6,110.66,77.16,33.5,31
+United States,North Dakota,Fargo,7,5,109.66,73.96,35.7,30
+United States,Florida,Apopka,7,7,108.57,73.99,34.58,31
+United States,Montana,Great Falls,8,5,108.45,71.61,36.84,30
+United States,California,Fairfield,9,5,107.83,73.95,33.88,30
+United States,California,Oxnard,9,8,107.7,66.04,41.66,31
+United States,Utah,Pleasant Grove,7,6,106.52,72.32,34.2,30
+United States,Maine,Bangor,5,5,105.32,70.14,35.18,29
+United States,Arizona,Avondale,6,6,105.15,70.59,34.56,30
+United States,Georgia,Athens,8,7,105.1,70.6,34.5,30
+United States,South Carolina,Florence,6,6,105.01,71.11,33.9,29
+United States,North Carolina,Asheville,7,7,101.6,69.2,32.4,28
+United States,Illinois,Highland Park,7,5,100.45,66.57,33.88,28
+United States,Connecticut,Milford,6,4,100.34,68.04,32.3,30
+United States,Washington,Kent,8,6,99.98,66.34,33.64,28
+United States,New Jersey,Hackensack,6,3,99.75,68.03,31.72,28
+United States,Connecticut,Middletown,9,8,99.64,66.36,33.28,28
+United States,Oregon,Gresham,5,5,99.61,67.95,31.66,28
+United States,Florida,Boynton Beach,10,8,99.19,67.43,31.76,28
+United States,Illinois,Elmhurst,4,4,99.17,57.27,41.9,14
+United States,California,Santa Barbara,8,8,97.13,63.65,33.48,30
+United States,Texas,Bryan,6,5,96.4,65.82,30.58,27
+United States,Washington,Pasco,6,6,95.72,63.3,32.42,27
+Canada,Alberta,Edmonton,8,6,94.5,63.7,30.8,26
+United States,Illinois,Bloomington,8,7,94.31,64.13,30.18,27
+United States,Tennessee,Clarksville,7,7,93.95,62.11,31.84,27
+United States,North Carolina,Greenville,9,8,93.34,63.14,30.2,27
+United States,Tennessee,Smyrna,7,7,92.96,62.0,30.96,26
+United States,Kansas,Wichita,7,7,92.69,64.29,28.4,26
+United States,Texas,Brownsville,7,6,91.25,60.07,31.18,27
+United States,New York,New Rochelle,9,7,91.22,60.24,30.98,27
+United States,Missouri,Saint Louis,5,5,90.93,61.85,29.08,26
+United States,California,Concord,8,8,90.49,60.33,30.16,26
+United States,Virginia,Harrisonburg,7,6,89.9,61.22,28.68,25
+United States,Michigan,Lansing,8,5,89.85,61.07,28.78,25
+United States,Texas,League City,6,4,89.78,62.18,27.6,25
+United States,Oregon,Tigard,8,7,89.31,60.37,28.94,26
+United States,Washington,Bellingham,3,3,89.25,59.05,30.2,24
+United States,California,Oceanside,8,7,88.77,60.31,28.46,25
+United States,Indiana,South Bend,6,4,88.75,59.35,29.4,25
+United States,Ohio,Bowling Green,8,6,88.65,59.61,29.04,25
+United States,Idaho,Pocatello,7,7,88.49,59.39,29.1,25
+Canada,Nova Scotia,Halifax,6,6,87.5,56.9,30.6,26
+United States,Mississippi,Southaven,7,6,87.42,59.92,27.5,25
+United States,Michigan,Saginaw,6,5,85.06,58.72,26.34,24
+United States,Texas,Bedford,5,3,84.85,58.45,26.4,25
+United States,New Jersey,Passaic,6,4,84.81,57.81,27.0,24
+United States,Illinois,Des Plaines,6,5,84.59,57.79,26.8,24
+United States,Illinois,Peoria,7,6,84.15,56.45,27.7,23
+United States,California,Apple Valley,7,7,84.13,55.83,28.3,27
+United States,Massachusetts,Revere,7,6,83.79,58.03,25.76,24
+United States,Colorado,Parker,8,4,83.63,57.05,26.58,24
+United States,Texas,Irving,8,8,83.59,56.69,26.9,23
+United States,Michigan,Dearborn,5,3,83.25,56.85,26.4,23
+United States,Louisiana,Bossier City,6,5,83.0,49.98,33.02,24
+United States,New Jersey,Vineland,8,7,82.48,55.64,26.84,24
+United States,Illinois,Bolingbrook,6,4,82.23,54.05,28.18,23
+United States,Texas,Round Rock,7,7,80.72,54.32,26.4,23
+United States,Georgia,Macon,6,6,80.62,54.26,26.36,24
+United States,Texas,Odessa,5,4,80.1,54.6,25.5,22
+United States,Kansas,Overland Park,6,6,79.97,53.75,26.22,23
+United States,Tennessee,Hendersonville,5,5,79.5,53.08,26.42,22
+United States,California,Santa Clara,6,5,79.3,53.0,26.3,23
+United States,Texas,Pharr,4,3,79.2,54.0,25.2,22
+United States,California,Vallejo,6,6,78.96,54.46,24.5,22
+United States,Alabama,Florence,5,4,78.85,51.27,27.58,24
+United States,New York,Rome,6,5,78.78,54.18,24.6,22
+United States,New Jersey,Perth Amboy,8,7,78.68,52.04,26.64,22
+United States,Minnesota,Eagan,8,7,78.65,51.75,26.9,22
+United States,Arizona,Yuma,4,4,78.59,53.99,24.6,22
+United States,Massachusetts,New Bedford,5,4,78.45,52.93,25.52,22
+United States,Texas,Lubbock,6,5,78.2,51.7,26.5,22
+United States,North Carolina,Monroe,9,9,78.13,53.51,24.62,22
+United States,Michigan,Ann Arbor,5,4,77.72,52.74,24.98,23
+United States,Delaware,Dover,9,9,76.8,50.94,25.86,22
+United States,Colorado,Broomfield,5,3,76.75,49.89,26.86,23
+United States,Texas,Harlingen,5,5,76.66,51.26,25.4,21
+United States,Arizona,Chandler,7,6,76.5,50.48,26.02,23
+United States,Rhode Island,Warwick,5,5,76.4,43.56,32.84,14
+United States,Texas,Beaumont,5,5,76.35,51.05,25.3,21
+United States,Iowa,Marion,6,4,76.15,52.99,23.16,22
+United States,Michigan,Roseville,6,6,75.3,49.26,26.04,21
+United States,Florida,Coral Springs,8,7,74.34,50.52,23.82,21
+United States,Pennsylvania,Allentown,7,4,73.8,48.8,25.0,20
+United States,California,Visalia,4,3,72.62,49.42,23.2,20
+United States,Wisconsin,Eau Claire,6,6,71.94,49.66,22.28,21
+United States,North Carolina,Wilson,6,5,71.61,49.71,21.9,20
+United States,Minnesota,Roseville,6,4,71.57,49.77,21.8,20
+United States,Utah,Logan,5,4,70.89,47.51,23.38,21
+United States,Washington,Covington,4,4,70.34,47.74,22.6,20
+United States,Pennsylvania,York,5,4,70.2,46.2,24.0,19
+United States,Ohio,Kent,5,5,70.02,47.18,22.84,20
+United States,Colorado,Fort Collins,7,6,69.52,48.3,21.22,20
+United States,New Jersey,East Orange,5,4,69.25,45.35,23.9,20
+United States,Mississippi,Gulfport,3,3,69.16,46.98,22.18,20
+United States,California,Huntington Beach,6,6,68.93,46.83,22.1,19
+United States,Florida,Palm Coast,5,5,68.45,36.01,32.44,20
+United States,Massachusetts,Cambridge,6,6,67.9,44.74,23.16,19
+United States,Massachusetts,Leominster,6,5,67.8,38.94,28.86,20
+United States,Texas,College Station,3,3,67.67,45.85,21.82,19
+United States,Iowa,Dubuque,3,3,66.3,44.5,21.8,18
+United States,Michigan,Dearborn Heights,6,4,66.22,46.1,20.12,19
+United States,Pennsylvania,Bethlehem,5,4,66.0,43.8,22.2,18
+United States,North Carolina,Cary,6,6,65.75,44.81,20.94,19
+United States,California,Mission Viejo,5,3,65.45,43.07,22.38,18
+United States,Florida,Deltona,5,5,64.15,41.93,22.22,19
+United States,West Virginia,Wheeling,4,4,63.97,43.89,20.08,18
+United States,Illinois,Saint Charles,6,5,63.15,43.07,20.08,20
+United States,California,Hesperia,4,4,63.1,42.02,21.08,18
+United States,Indiana,Greenwood,4,3,63.0,40.9,22.1,19
+United States,Illinois,Carol Stream,5,5,62.93,42.29,20.64,18
+United States,Washington,Bellevue,6,6,62.56,42.22,20.34,18
+United States,California,Lake Forest,6,5,61.85,42.05,19.8,17
+United States,Texas,Coppell,4,4,61.84,41.84,20.0,17
+United States,Nevada,Reno,4,3,61.35,41.75,19.6,17
+United States,Montana,Helena,3,3,61.18,41.68,19.5,17
+United States,Oklahoma,Broken Arrow,5,5,61.15,42.01,19.14,17
+United States,Illinois,Park Ridge,3,3,61.09,41.79,19.3,17
+United States,Connecticut,Bristol,8,8,60.57,38.69,21.88,17
+United States,Texas,Waco,6,6,59.79,41.07,18.72,17
+United States,New Jersey,Orange,6,6,59.42,40.32,19.1,17
+United States,New York,Freeport,6,6,58.77,39.63,19.14,17
+United States,Washington,Des Moines,7,5,58.75,38.77,19.98,17
+United States,California,Torrance,4,4,57.8,39.5,18.3,16
+United States,Alabama,Auburn,6,5,57.53,38.83,18.7,16
+United States,Pennsylvania,Reading,5,5,57.17,38.49,18.68,16
+United States,California,Morgan Hill,4,3,57.05,37.65,19.4,16
+United States,North Carolina,Gastonia,4,3,56.58,39.78,16.8,16
+United States,Utah,West Jordan,5,4,56.55,38.13,18.42,16
+United States,Texas,Tyler,5,5,56.32,37.96,18.36,16
+United States,California,Camarillo,5,4,55.67,38.75,16.92,16
+United States,Utah,Murray,3,3,55.35,36.95,18.4,15
+United States,Georgia,Woodstock,2,2,55.12,38.7,16.42,16
+United States,Massachusetts,Beverly,3,2,54.9,37.2,17.7,15
+United States,Washington,Olympia,5,5,54.9,36.9,18.0,15
+United States,Illinois,Woodstock,3,3,54.75,37.25,17.5,15
+United States,California,Laguna Niguel,4,4,54.75,36.45,18.3,15
+United States,Kansas,Olathe,5,4,54.6,36.8,17.8,15
+United States,Arkansas,Hot Springs,4,4,54.46,37.06,17.4,15
+United States,Alabama,Hoover,4,3,54.0,37.3,16.7,15
+United States,Indiana,New Albany,4,2,54.0,36.6,17.4,15
+United States,Rhode Island,Woonsocket,4,4,53.53,37.03,16.5,15
+United States,Florida,Tamarac,4,4,53.12,37.22,15.9,15
+United States,California,Lancaster,5,5,52.83,36.15,16.68,15
+United States,Louisiana,Lake Charles,3,3,52.72,34.9,17.82,16
+United States,Ohio,Mentor,6,3,52.07,35.85,16.22,15
+United States,Texas,The Colony,3,2,51.45,34.65,16.8,14
+United States,Wisconsin,Wausau,4,4,50.52,34.22,16.3,14
+United States,Tennessee,Lebanon,3,3,50.49,34.39,16.1,14
+United States,Washington,Renton,3,3,49.92,34.28,15.64,14
+United States,New Mexico,Santa Fe,2,2,49.85,34.05,15.8,14
+United States,California,Temecula,4,3,49.72,34.58,15.14,14
+United States,Washington,Marysville,2,2,49.47,32.79,16.68,15
+United States,Oregon,Hillsboro,4,3,49.35,33.83,15.52,14
+United States,Texas,Mesquite,5,4,49.28,34.04,15.24,14
+United States,Wisconsin,Green Bay,4,4,49.0,33.04,15.96,14
+United States,Tennessee,Bristol,5,5,48.55,26.49,22.06,14
+United States,California,Rancho Cucamonga,4,4,48.5,27.86,20.64,14
+United States,New Jersey,Westfield,6,6,47.94,31.41,16.53,16
+United States,California,Encinitas,5,3,47.25,31.85,15.4,13
+United States,Washington,Vancouver,5,5,47.15,30.87,16.28,15
+United States,Ohio,Hamilton,4,4,47.0,31.42,15.58,13
+United States,Texas,Allen,4,4,46.97,31.29,15.68,13
+United States,Oklahoma,Lawton,4,4,46.95,30.93,16.02,13
+United States,Oklahoma,Muskogee,4,4,46.85,30.51,16.34,14
+United States,Massachusetts,Andover,4,3,46.81,32.31,14.5,13
+United States,Texas,Haltom City,4,4,46.58,32.28,14.3,13
+United States,California,Chula Vista,3,3,46.3,30.64,15.66,13
+United States,Minnesota,Maple Grove,4,4,46.28,31.06,15.22,13
+United States,Illinois,Oswego,3,3,46.25,31.95,14.3,13
+United States,Michigan,Canton,3,3,46.22,32.32,13.9,13
+United States,California,San Gabriel,3,2,46.15,32.25,13.9,13
+United States,Nevada,Henderson,3,3,45.95,20.75,25.2,13
+United States,Texas,Mansfield,2,2,45.92,32.42,13.5,13
+United States,Minnesota,Saint Cloud,3,2,45.81,32.41,13.4,13
+United States,Texas,Pearland,3,3,45.75,30.63,15.12,13
+United States,Ohio,Cuyahoga Falls,3,3,45.7,32.1,13.6,13
+United States,California,Burbank,3,1,45.37,32.37,13.0,13
+United States,Missouri,Saint Charles,4,4,45.33,31.25,14.08,13
+United States,Florida,Pompano Beach,3,2,45.0,29.4,15.6,12
+United States,Texas,San Angelo,4,4,44.48,30.14,14.34,13
+United States,Utah,Draper,3,3,44.21,29.63,14.58,13
+United States,Texas,Richardson,2,2,43.95,29.05,14.9,12
+United States,Connecticut,Norwich,4,4,43.75,29.01,14.74,12
+United States,Ohio,Grove City,2,2,43.5,28.9,14.6,12
+United States,Texas,Port Arthur,6,5,43.2,29.5,13.7,12
+United States,Iowa,Urbandale,3,3,43.1,28.42,14.68,12
+United States,Texas,Garland,4,3,42.63,28.69,13.94,12
+United States,Texas,Grapevine,2,2,42.43,29.43,13.0,12
+United States,North Carolina,Thomasville,3,3,42.43,29.63,12.8,12
+United States,Texas,San Marcos,4,2,42.15,23.25,18.9,12
+United States,Illinois,Freeport,4,4,42.06,28.88,13.18,12
+United States,Wisconsin,Appleton,2,2,41.5,27.02,14.48,12
+United States,Florida,West Palm Beach,3,3,40.65,26.75,13.9,11
+United States,Minnesota,Woodbury,3,3,40.35,26.65,13.7,11
+United States,Indiana,Noblesville,4,3,40.35,26.25,14.1,15
+United States,Illinois,Evanston,4,3,40.21,27.11,13.1,11
+United States,Indiana,Mishawaka,2,2,40.05,27.35,12.7,11
+United States,Idaho,Meridian,4,3,39.9,26.8,13.1,11
+United States,Arkansas,Texarkana,2,2,39.69,27.19,12.5,11
+United States,Maryland,Rockville,5,4,39.57,27.37,12.2,11
+United States,Michigan,Sterling Heights,3,3,39.46,26.86,12.6,11
+United States,Michigan,Holland,3,3,39.13,27.33,11.8,11
+United States,Texas,Edinburg,3,3,38.79,25.91,12.88,11
+United States,New Mexico,Farmington,3,3,38.65,27.35,11.3,11
+United States,Minnesota,Saint Paul,2,2,38.39,27.39,11.0,11
+United States,Michigan,Lincoln Park,3,3,38.2,25.84,12.36,11
+United States,Florida,Delray Beach,3,3,37.95,24.81,13.14,11
+United States,Florida,Port Saint Lucie,3,3,37.85,25.55,12.3,11
+United States,Idaho,Caldwell,3,2,37.15,24.77,12.38,11
+United States,New Mexico,Clovis,2,2,37.05,24.65,12.4,10
+United States,Illinois,Buffalo Grove,2,2,37.05,24.65,12.4,10
+United States,Colorado,Longmont,3,3,36.12,24.82,11.3,10
+United States,California,San Clemente,2,1,36.0,25.0,11.0,10
+United States,California,Vacaville,1,1,35.75,23.21,12.54,11
+United States,Georgia,Warner Robins,2,2,35.23,24.63,10.6,10
+United States,Illinois,Frankfort,2,2,35.12,24.92,10.2,10
+United States,Oregon,Medford,4,4,34.6,23.04,11.56,10
+United States,New Hampshire,Nashua,2,2,34.6,22.84,11.76,10
+United States,Washington,Redmond,3,3,34.49,23.43,11.06,10
+United States,Colorado,Arvada,4,3,34.38,23.42,10.96,10
+United States,Washington,Longview,3,3,34.22,22.92,11.3,10
+United States,California,Modesto,3,3,33.85,22.17,11.68,10
+United States,Florida,Daytona Beach,4,3,33.35,21.83,11.52,10
+United States,South Carolina,Summerville,2,2,32.98,21.86,11.12,10
+United States,Massachusetts,Malden,3,3,32.97,22.17,10.8,9
+United States,Iowa,Burlington,3,3,32.85,21.85,11.0,9
+United States,Indiana,New Castle,2,2,32.7,21.7,11.0,9
+United States,Arizona,Sierra Vista,3,3,32.4,21.8,10.6,9
+United States,Alabama,Tuscaloosa,2,2,32.4,22.5,9.9,9
+United States,New York,Jamestown,2,2,32.4,21.8,10.6,9
+United States,Arkansas,Rogers,1,1,32.4,21.6,10.8,9
+United States,California,Escondido,3,3,31.96,22.26,9.7,9
+United States,Idaho,Boise,4,3,31.96,22.46,9.5,9
+United States,New Jersey,Clifton,2,2,31.85,22.05,9.8,9
+United States,Florida,Sanford,2,2,31.74,22.44,9.3,9
+United States,Oklahoma,Edmond,2,2,31.63,22.23,9.4,9
+United States,Texas,Conroe,1,1,31.41,22.41,9.0,9
+United States,New York,Niagara Falls,3,3,31.05,19.05,12.0,12
+United States,Oklahoma,Norman,2,2,31.0,20.44,10.56,9
+United States,New Mexico,Las Cruces,3,3,30.78,20.92,9.86,9
+United States,Illinois,Wheeling,3,3,30.3,19.86,10.44,9
+United States,New Jersey,Bayonne,3,2,30.3,19.86,10.44,9
+United States,California,Lodi,2,2,29.73,19.75,9.98,9
+Canada,Saskatchewan,Regina,2,2,29.25,18.99,10.26,9
+United States,Minnesota,Moorhead,2,2,29.25,18.99,10.26,9
+United States,California,Manteca,3,2,29.25,19.85,9.4,8
+United States,Pennsylvania,Altoona,2,1,29.25,18.99,10.26,9
+United States,Kansas,Garden City,5,5,28.94,19.4,9.54,8
+United States,California,La Mesa,2,2,28.25,19.65,8.6,8
+United States,Texas,Frisco,2,2,27.6,17.8,9.8,10
+United States,Florida,Boca Raton,3,3,27.48,18.32,9.16,8
+United States,Kentucky,Murray,2,2,27.05,18.05,9.0,8
+United States,Wisconsin,Sheboygan,4,4,26.55,16.81,9.74,10
+United States,Tennessee,Bartlett,1,1,26.0,16.88,9.12,8
+United States,Utah,Lehi,2,2,26.0,16.88,9.12,8
+United States,Missouri,Kirkwood,2,2,25.47,17.27,8.2,7
+United States,Texas,Missouri City,1,1,25.2,17.5,7.7,7
+United States,New Jersey,Linden,1,1,25.2,16.8,8.4,7
+United States,Illinois,Tinley Park,1,1,25.2,16.8,8.4,7
+United States,Illinois,Danville,1,1,25.2,16.8,8.4,7
+United States,Illinois,Oak Park,1,1,25.2,16.8,8.4,7
+United States,Indiana,Elkhart,2,2,24.98,17.48,7.5,7
+United States,Michigan,Taylor,3,3,24.98,16.98,8.0,7
+United States,Texas,Texas City,3,3,24.91,17.21,7.7,7
+United States,Georgia,East Point,3,2,24.69,17.39,7.3,7
+United States,Colorado,Loveland,4,4,24.25,16.25,8.0,8
+United States,New Mexico,Rio Rancho,2,2,24.25,15.79,8.46,7
+United States,Idaho,Twin Falls,2,2,24.15,16.33,7.82,7
+United States,Virginia,Charlottesville,2,2,24.15,16.33,7.82,7
+United States,Arkansas,Pine Bluff,2,2,23.95,16.67,7.28,7
+United States,Minnesota,Coon Rapids,2,2,23.8,15.64,8.16,7
+United States,California,Woodland,3,3,22.99,7.71,15.28,7
+United States,Illinois,Palatine,1,1,22.75,14.77,7.98,7
+United States,Colorado,Englewood,2,1,22.5,14.7,7.8,6
+United States,Minnesota,Cottage Grove,2,2,21.9,14.5,7.4,6
+United States,Florida,North Miami,2,2,21.72,14.82,6.9,6
+United States,California,San Mateo,1,1,21.6,15.0,6.6,6
+United States,Maryland,Hagerstown,1,1,21.6,15.0,6.6,6
+United States,California,El Cajon,2,2,21.38,14.98,6.4,6
+United States,Texas,Cedar Hill,2,2,21.27,14.97,6.3,6
+United States,Maine,Lewiston,3,2,21.16,14.96,6.2,6
+United States,New Jersey,Bridgeton,2,2,21.0,13.68,7.32,6
+United States,South Carolina,Mount Pleasant,1,1,20.94,14.94,6.0,6
+United States,Illinois,Arlington Heights,1,1,20.94,14.94,6.0,6
+United States,Texas,Deer Park,1,1,20.94,14.94,6.0,6
+United States,Texas,La Porte,2,2,20.9,13.82,7.08,6
+United States,Massachusetts,Marlborough,2,2,20.55,13.53,7.02,6
+United States,Florida,Coral Gables,2,2,20.55,13.83,6.72,6
+United States,Missouri,Independence,2,2,20.55,13.83,6.72,6
+United States,Ohio,Mason,3,3,20.47,13.67,6.8,7
+United States,California,Redwood City,1,1,19.5,12.66,6.84,6
+United States,Illinois,Orland Park,1,1,18.75,12.25,6.5,5
+United States,California,Dublin,1,1,18.75,12.25,6.5,5
+United States,California,Ontario,1,1,18.75,12.25,6.5,5
+United States,Connecticut,Shelton,2,2,18.45,12.35,6.1,5
+United States,South Carolina,North Charleston,2,2,18.45,12.35,6.1,5
+United States,Maryland,Laurel,2,2,18.3,12.4,5.9,5
+United States,North Carolina,Hickory,2,2,18.15,12.45,5.7,5
+United States,Illinois,Champaign,1,1,18.0,12.0,6.0,5
+United States,California,Lake Elsinore,1,1,18.0,12.5,5.5,5
+United States,Montana,Bozeman,2,2,18.0,12.3,5.7,5
+United States,Wisconsin,Waukesha,1,1,18.0,12.5,5.5,5
+United States,Colorado,Greeley,2,2,18.0,12.2,5.8,5
+United States,Minnesota,Apple Valley,2,2,17.97,12.37,5.6,5
+United States,Kentucky,Owensboro,2,2,17.78,12.48,5.3,5
+United States,Missouri,Gladstone,2,2,17.75,11.57,6.18,5
+United States,California,Yucaipa,1,1,17.45,12.45,5.0,5
+United States,Michigan,Oak Park,2,2,17.3,11.42,5.88,5
+United States,Florida,Homestead,3,3,17.1,11.28,5.82,5
+United States,Wisconsin,West Allis,2,2,16.97,11.69,5.28,5
+United States,Kentucky,Bowling Green,2,2,16.75,10.89,5.86,5
+United States,California,Davis,1,1,16.25,10.55,5.7,5
+United States,California,Pico Rivera,1,1,16.25,10.55,5.7,5
+United States,South Dakota,Rapid City,2,1,15.0,9.8,5.2,4
+United States,Illinois,Normal,1,1,14.4,10.0,4.4,4
+United States,California,Whittier,1,1,14.4,9.6,4.8,4
+United States,Michigan,Rochester Hills,1,1,14.4,9.6,4.8,4
+United States,California,La Quinta,1,1,14.4,10.0,4.4,4
+United States,Louisiana,Kenner,2,2,14.18,9.78,4.4,4
+United States,Wyoming,Cheyenne,1,1,13.96,9.96,4.0,4
+United States,Michigan,Royal Oak,2,2,13.7,9.22,4.48,4
+United States,Missouri,Saint Peters,1,1,13.0,8.44,4.56,4
+United States,Utah,Layton,1,1,13.0,8.44,4.56,4
+United States,Iowa,Waterloo,1,1,13.0,8.44,4.56,4
+United States,Maryland,Gaithersburg,2,2,12.25,7.63,4.62,5
+United States,California,Murrieta,1,1,11.25,7.35,3.9,3
+United States,Illinois,Glenview,1,1,10.8,7.5,3.3,3
+United States,South Dakota,Aberdeen,1,1,10.8,7.5,3.3,3
+United States,California,Citrus Heights,1,1,10.8,7.5,3.3,3
+United States,Florida,Pensacola,1,1,10.8,7.2,3.6,3
+United States,California,Coachella,2,2,10.8,7.3,3.5,3
+United States,New Jersey,New Brunswick,2,2,10.69,7.49,3.2,3
+United States,Arizona,Bullhead City,2,2,10.69,7.29,3.4,3
+United States,Florida,Margate,1,1,10.47,7.47,3.0,3
+United States,Iowa,Cedar Rapids,1,1,10.47,7.47,3.0,3
+United States,North Carolina,Chapel Hill,1,1,10.47,7.47,3.0,3
+United States,Colorado,Commerce City,1,1,10.47,7.47,3.0,3
+United States,California,Antioch,1,1,10.47,7.47,3.0,3
+United States,North Carolina,Goldsboro,1,1,9.75,6.33,3.42,3
+United States,Florida,Ormond Beach,1,1,9.75,6.33,3.42,3
+United States,South Carolina,Rock Hill,1,1,9.75,6.33,3.42,3
+United States,California,Santa Maria,1,1,9.75,6.33,3.42,3
+United States,California,Redding,1,1,9.75,6.33,3.42,3
+United States,Nebraska,Norfolk,1,1,9.75,6.33,3.42,3
+United States,Arkansas,Springdale,1,1,7.5,4.9,2.6,2
+United States,Montana,Billings,1,1,7.5,4.9,2.6,2
+United States,California,Montebello,1,1,7.5,4.9,2.6,2
+United States,Nebraska,Grand Island,1,1,7.5,4.9,2.6,2
+United States,Florida,Kissimmee,1,1,7.5,4.9,2.6,2
+United States,Connecticut,Danbury,1,1,7.5,4.9,2.6,2
+United States,Indiana,Portage,1,1,7.5,4.9,2.6,2
+United States,New Jersey,Atlantic City,1,1,7.2,5.0,2.2,2
+United States,Massachusetts,Holyoke,1,1,7.2,4.8,2.4,2
+United States,Michigan,Mount Pleasant,1,1,7.2,5.0,2.2,2
+United States,Montana,Missoula,1,1,6.98,4.98,2.0,2
+United States,Illinois,Romeoville,1,1,6.98,4.98,2.0,2
+United States,Arkansas,Conway,1,1,6.98,4.98,2.0,2
+United States,Kansas,Manhattan,1,1,6.98,4.98,2.0,2
+United States,Texas,Keller,1,1,6.98,4.98,2.0,2
+United States,Missouri,Jefferson City,1,1,6.98,4.98,2.0,2
+United States,Texas,Baytown,1,1,6.5,4.22,2.28,2
+United States,California,San Luis Obispo,1,1,6.5,4.22,2.28,2
+United States,Texas,Abilene,1,1,6.5,4.22,2.28,2
+United States,Ohio,Elyria,1,1,3.75,2.45,1.3,1
+United States,New York,Lindenhurst,1,1,3.75,2.45,1.3,1
+United States,Iowa,Iowa City,1,1,3.6,2.5,1.1,1
+United States,Washington,Everett,1,1,3.6,2.4,1.2,1
+United States,Colorado,Littleton,1,1,3.6,2.5,1.1,1
+United States,Florida,Jupiter,1,1,3.6,2.4,1.2,1
+United States,Florida,Port Orange,1,1,3.6,2.5,1.1,1
+United States,Idaho,Lewiston,1,1,3.6,2.4,1.2,1
+United States,Washington,Auburn,1,1,3.49,2.49,1.0,1
+United States,Florida,Melbourne,1,1,2.5,1.3,1.2,2
